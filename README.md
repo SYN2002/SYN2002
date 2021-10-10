@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAYAN KHANRA</h1>
-<h3 align="center">A student of CSE</h3>
+<h3 align="center">A student of CSE in ACADEMY of TECHNOLOGY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syn2002&label=Profile%20views&color=0e75b6&style=flat" alt="syn2002" /> </p>
 
