@@ -26,7 +26,7 @@
 <a href="https://www.youtube.com/c/sayan khanra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayan khanra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/syn2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="syn2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khanra_sayan2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khanra_sayan2002" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/j9vnepnR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/j9vnepnR" height="30" width="40" /></a>
+<a href="https://discord.gg/Uy8nvH3T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/j9vnepnR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
