@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SAYAN KHANRA</h1>
 <h3 align="center">A student of CSE</h3>
 
+[![@syn2002's Holopin board](https://holopin.me/syn2002)](https://holopin.io/@syn2002)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syn2002&label=Profile%20views&color=0e75b6&style=flat" alt="syn2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syn2002" alt="syn2002" /></a> </p>
