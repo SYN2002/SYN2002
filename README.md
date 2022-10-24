@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syn2002&show_icons=true&locale=en" alt="syn2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syn2002&" alt="syn2002" /></p>
-[![@syn2002's Holopin board](https://holopin.me/syn2002)](https://holopin.io/@syn2002)
