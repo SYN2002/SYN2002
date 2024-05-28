@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SYN2002?tab=repositories](https://github.com/SYN2002?tab=repositories)
 
-- 💬 Ask me about **c,html,css,python**
+- 💬 Ask me about **c,html,css,javascript,react js,node js,python,java**
 
 - 📫 How to reach me **khanra.sayan2002@gmail.com**
 
