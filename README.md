@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sayankhanra19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayankhanra19" height="30" width="40" /></a>
+<a href="https://twitter.com/sayankhanra19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayankhanra19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayan-khanra-151865214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-khanra-151865214" height="30" width="40" /></a>
 <a href="https://fb.com/sayan.khanra.334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan.khanra.334" height="30" width="40" /></a>
 <a href="https://instagram.com/sayan_khanra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_khanra" height="30" width="40" /></a>
